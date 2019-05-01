@@ -3505,7 +3505,11 @@ ul.list-check li:before
 		padding:40px 15px
 	}
 }
-
+@media only screen and (max-width:585px) {
+	.contact-box{
+		width: 100%;
+	}
+}
 @media only screen and (max-width:468px) {
 	#messenger
 	{

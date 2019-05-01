@@ -2989,14 +2989,6 @@ ul.list-check li:before
 	list-style: none;
 	font-family: "Helvetica Neue", Roboto, Helvetica, Arial, sans-serif;
 }
-#footer li{
-	color: #ffffff;
-	float: left;
-	margin-left: 10px;
-	line-height: 30px;
-	list-style: none;
-	font-family: "Helvetica Neue", Roboto, Helvetica, Arial, sans-serif;
-}
 
 .progress
 {

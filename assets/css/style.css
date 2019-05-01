@@ -2985,8 +2985,8 @@ ul.list-check li:before
 }
 #footer #copyright{
 	color: #ffffff;
-	float: right;
-	margin-right: 40px;
+	float: left;
+	margin-left: 20px;
 	line-height: 30px;
 	list-style: none;
 	font-family: "Helvetica Neue", Roboto, Helvetica, Arial, sans-serif;
